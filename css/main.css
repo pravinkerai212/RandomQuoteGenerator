@@ -1,0 +1,33 @@
+.col {
+	background-color: rgba(245, 0, 87, 1);
+}
+
+.color {
+	color: rgba(245, 0, 87, 1);
+}
+
+.name {
+	margin-top: 50px;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+}
+
+.quote {
+	background-color: #E8EAF6;
+	margin: 0 auto;
+	margin-top: 12%;
+	padding: 40px;
+	border-radius: 5px; 
+}
+
+.socialmedia a {
+	background-color: rgba(245, 0, 87, 1);
+	
+}
+
+a {
+	color: white;
+}
+
+
+
